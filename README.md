@@ -4,10 +4,10 @@ Developers: Benjamin Oliveria, Michael Salton
 
 In our demo for "Misanthrope", players will get to play as Timon in a small level with collectibles that present different endings and enemies that are in your way. Below are the core features players will find in this demo.
 
-##Exploration/Collectibles: 
+**Exploration/Collectibles: **
 For this demo-level, there are numerous collectibles players can find and the ending of the game changes based on how many collectibles the player finds. Some are out in the open for the player to see but some are hidden in paths that deviate from the main one. To help players explore the world more, we have a camera system that allows players to rotate it so that they can view the world in different ways and see paths they might not have been able to without changing the camera. This gives players the ability to explore around the level and feel like they are getting something out of it. In addition, having multiple endings can entice players to replay the demo so that they can experience all of the endings.
 
-##Movement/Combat:
+**Movement/Combat:**
 Timon has a basic 3-hit moveset that can be timed input or spammed with “E”. The first two hits are regular slashes that go diagonal then horizontal but the third move is a small AOE in which Timon spins around damaging everything around him. With the way the code was done, spamming can allow players to execute their combos as fast as possible for an aggressive playstyle whereas timing the attacks present opportunity for the combo to be canceled with a dash. The dash is a movement and combat ability binded to “Space” that allows players to get through the map faster as well as evade enemies whether it be dashing away from them or right through them. 
 
 ##Audio/Details:
