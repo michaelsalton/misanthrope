@@ -2,8 +2,6 @@ Game: misanthrope
 Developers: Benjamin Oliveria, Michael Salton
 ----------------
 
-Play the game: https://michaelsalton.itch.io/misanthrope
-
 In our demo for "Misanthrope", players will get to play as Timon in a small level with collectibles that present different endings and enemies that are in your way. Below are the core features players will find in this demo.
 
 ![image (1)](https://github.com/michaelsalton/misanthrope/assets/58754252/838674ca-e585-4348-ad85-3db4edb9a169)
